@@ -1,0 +1,1 @@
+Dieses Projekt ist eine einfache 2D-Charaktersteuerung. Der Charakter kann sich frei im Raum bewegen und auf Plattformen springen. Zudem ist eine Doppelsprung-Mechanik implementiert.

@@ -1,0 +1,2098 @@
+fileFormatVersion: 2
+guid: a0645999eefbe3d4daf54fbb22cf92dd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b63b2b17977d24a9c3b48fd4142b90
+      internalID: -608718388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9673b00ebcb86a242ab6a0a4d77e6aa7
+      internalID: 498689449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836a1c1dd612e6c4d94808a2b2b3c677
+      internalID: 1689609751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a021c184a1f84ba241217f0536bb1
+      internalID: -1888340257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2487810b630b047b4cd02878fe02ec
+      internalID: 616845233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a0b1133757a0043a3ad6d249c8b92b
+      internalID: 79772256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de69e8e22f9cbbc4e933c72f46ae435a
+      internalID: 850111049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e012cc0fddb2f124c9424beba5a053f8
+      internalID: 1922593293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7604d5c1290abe498e499250809ec1f
+      internalID: -1801516323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5499855130aeb2f49af86ee121f96f7d
+      internalID: 873658501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c4942de2067b74d8be2e0c08c184b6
+      internalID: -975610040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 728
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5243bcb2672a4f9b78827ea8ae644
+      internalID: 1456252479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6b996bc08a6564ca77a48f945c8c16
+      internalID: -1842192092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 637
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b380320c817e24686b554b36633a8c
+      internalID: 1782500620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 637
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e58a43ce3e5c48ab2eded62fe6621
+      internalID: 1855520861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 637
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4952e5d1856db34a9259cb92a4d557e
+      internalID: -542477022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 637
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610f476e7779f644ea08539f2e489753
+      internalID: 1306263901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 637
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d92707ee35083f41b9d30df72edf374
+      internalID: -1092686948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 637
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a22f879de7f4a4491c6d1b4b91cd50
+      internalID: -452294490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 637
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d5b7f009a3b6f44987fd64755aef62
+      internalID: 1439996718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 637
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50b32151b4f5284a9898486c8dc3c94
+      internalID: 175004369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7ca0bb353168d429ae4eac9da83713
+      internalID: -1769935077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 546
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810ea3d8df36abb469858ba13579488b
+      internalID: 1132325368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_23
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 546
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687416c11f6b2144695c7d1a594fe3d4
+      internalID: -317483532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 546
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c46f5bd205244488b784ea3e4da27b
+      internalID: 68808799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 546
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade4ac9bf2a667419f041f973f4eb76
+      internalID: -699990550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 546
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2591061415a8f4d94dddf07ea5fb21
+      internalID: 364031468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 546
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d754e149fc8abf4e8dc51abdd82023f
+      internalID: -1680201172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 546
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b150855380f2c47bb071ee9f0d5047
+      internalID: 1196237593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 546
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36adba6b49dcc745be27b751851da2b
+      internalID: -473808883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd52d2be63c974d946b0a54d249373
+      internalID: 321208699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f91027ebce2b4da354f6a502eab43
+      internalID: 2105700207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd14704b5671ec41800c9086fa7c9bd
+      internalID: 679952770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ef7abe2fcbfd4b94edce0dd9522a6
+      internalID: -836637216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d3517e8a71ba64e98ba30bdb664511
+      internalID: -1038857079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dcc89a0e5e9074ab50851e6dc8e5df
+      internalID: 1578944083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c752d89b64491f2499ebf40d384e20f8
+      internalID: 1764649820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137e8485f94dc2e408bd1dd5d99edb0b
+      internalID: -1068702033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_38
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6610c3413e144c84ff94d331c111e
+      internalID: -802624160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 455
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c58b51d080af3e47a3e37aa16046c84
+      internalID: 1043840889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3847abd7ea4ce334694f937cad7e49c9
+      internalID: -754627363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 364
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e9c00a46a3d84b8b864839f4d15eb
+      internalID: -1582010301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 364
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d980cc50635a5f44c800d49af6f28b88
+      internalID: 296474668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 364
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583936fd7e4d1d48adfa9cb70621dbd
+      internalID: 543094575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 364
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ce1a33c8fae5449a5bcad32dd9246
+      internalID: -1680819488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 364
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5493d803f947846a1877ce755127df
+      internalID: 717044379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 364
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac3e410d1ade794780d6ef184b79bbe
+      internalID: -776962581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_47
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 364
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efc19cd977e6214088e9beb4aa7c0de
+      internalID: 547817809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b23ae4cc5578f3419ddd4e5adbe1bc0
+      internalID: -2013535429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9957826c1bf744b8b6b95673540226
+      internalID: -1490830303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96164a5f71f90c4d98854a666be5b8f
+      internalID: -1586414942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_51
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6225b66115579c4887aad27dadd7561
+      internalID: -606553285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f939aece6c94e214baa35ec2bab7da1e
+      internalID: -2011546215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb0331ca34dac4ba3aa8a75dee6192
+      internalID: 1813496782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd5b5ae0dd92ca44a368247094d6a18
+      internalID: 1909933847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_55
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58131773efaa77439999d50a4532443
+      internalID: -873208551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918cb220a925b3745a6346355e41a713
+      internalID: 2008032923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ce16df9c356ce4990709e27dd57d15
+      internalID: 1885408219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_58
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df2581ba877fe84e916dbe9fe66df88
+      internalID: 23245739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_59
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 273
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d841e5e6785c4ad4d887f77074caa880
+      internalID: 686929368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a73f54701c75c49a13f01ba1696684
+      internalID: 881611066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 182
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8890dc88ea867de418b07f3067a9a03c
+      internalID: -2136829643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_62
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 182
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fcd8f6e91711747813767d478aff18
+      internalID: 1229912122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 182
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20ff27af5a971448c69bce1e92205f
+      internalID: -703591297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 182
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa552a9aa33a754cac279cd63189a22
+      internalID: -2064013252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_65
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 182
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b66da0f988b0a429ad2a0764ce823d
+      internalID: 1164910189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_66
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 182
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27294cac36124e245a16d0fb0946b396
+      internalID: -1376534432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_67
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 182
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cefb8d70fbfd57439dc30eb99bcaf89
+      internalID: -1108159390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31363f2ef39b7b34b9c54002a6a10c68
+      internalID: -160634499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 91
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1438848b752cf09439f9b1ef85870739
+      internalID: -1955297131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_70
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 91
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36270384754cd2f4a98e68af0ca1e98a
+      internalID: 1973844546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_71
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 91
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded89785383c29d49b80b9966c1bff99
+      internalID: -1184794439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 91
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4452227ee56e5429118b2541b7b423
+      internalID: -1296396103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 91
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e64887a86aca488968a9291e618b2
+      internalID: -83910061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 91
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ef358084d56714791957dc9c284b39
+      internalID: 74261551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 91
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf07951d906bab409981dd9fa4868f8
+      internalID: -1681938258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 91
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c8abc214edf2e49b29445867eb4075
+      internalID: -233546434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae00d0c6c1222ea428009393d4f1345f
+      internalID: -1070626983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d877af105994ebb49b7be426dc12ff21
+      internalID: -350728324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_79
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b42f8c0e3ea954c945e61e9eaeee50
+      internalID: 2124483284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_80
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcf4f7758703b741959467878b8c236
+      internalID: 548080519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_81
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60614878668b6f46a759afaaa778b55
+      internalID: 962678160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f9b7653c1f44143983cef661013919
+      internalID: 540662998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574f4d3bb1c1324396327e7f420356f
+      internalID: -779353557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_84
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96c329079de6ff4a83d149940340ee0
+      internalID: -276540875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa042ea6fa67c46b740ab75e077714
+      internalID: 750985189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c5e2057fb21574b942b980d26676d3
+      internalID: -1710442219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_87
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce3fc87f737334684bf98937093229
+      internalID: 246556715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dust Jumper Sprite Sheet 42x91_88
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbe6e5ac9d321a47ae48414030d4907
+      internalID: 1393176818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dust Jumper Sprite Sheet 42x91_0: -608718388
+      Dust Jumper Sprite Sheet 42x91_1: 498689449
+      Dust Jumper Sprite Sheet 42x91_10: -975610040
+      Dust Jumper Sprite Sheet 42x91_11: 1456252479
+      Dust Jumper Sprite Sheet 42x91_12: -1842192092
+      Dust Jumper Sprite Sheet 42x91_13: 1782500620
+      Dust Jumper Sprite Sheet 42x91_14: 1855520861
+      Dust Jumper Sprite Sheet 42x91_15: -542477022
+      Dust Jumper Sprite Sheet 42x91_16: 1306263901
+      Dust Jumper Sprite Sheet 42x91_17: -1092686948
+      Dust Jumper Sprite Sheet 42x91_18: -452294490
+      Dust Jumper Sprite Sheet 42x91_19: 1439996718
+      Dust Jumper Sprite Sheet 42x91_2: 1689609751
+      Dust Jumper Sprite Sheet 42x91_20: 175004369
+      Dust Jumper Sprite Sheet 42x91_21: -1769935077
+      Dust Jumper Sprite Sheet 42x91_22: 1132325368
+      Dust Jumper Sprite Sheet 42x91_23: -317483532
+      Dust Jumper Sprite Sheet 42x91_24: 68808799
+      Dust Jumper Sprite Sheet 42x91_25: -699990550
+      Dust Jumper Sprite Sheet 42x91_26: 364031468
+      Dust Jumper Sprite Sheet 42x91_27: -1680201172
+      Dust Jumper Sprite Sheet 42x91_28: 1196237593
+      Dust Jumper Sprite Sheet 42x91_29: -473808883
+      Dust Jumper Sprite Sheet 42x91_3: -1888340257
+      Dust Jumper Sprite Sheet 42x91_30: 321208699
+      Dust Jumper Sprite Sheet 42x91_31: 2105700207
+      Dust Jumper Sprite Sheet 42x91_32: 679952770
+      Dust Jumper Sprite Sheet 42x91_33: -836637216
+      Dust Jumper Sprite Sheet 42x91_34: -1038857079
+      Dust Jumper Sprite Sheet 42x91_35: 1578944083
+      Dust Jumper Sprite Sheet 42x91_36: 1764649820
+      Dust Jumper Sprite Sheet 42x91_37: -1068702033
+      Dust Jumper Sprite Sheet 42x91_38: -802624160
+      Dust Jumper Sprite Sheet 42x91_39: 1043840889
+      Dust Jumper Sprite Sheet 42x91_4: 616845233
+      Dust Jumper Sprite Sheet 42x91_40: -754627363
+      Dust Jumper Sprite Sheet 42x91_41: -1582010301
+      Dust Jumper Sprite Sheet 42x91_42: 296474668
+      Dust Jumper Sprite Sheet 42x91_43: 543094575
+      Dust Jumper Sprite Sheet 42x91_44: -1680819488
+      Dust Jumper Sprite Sheet 42x91_45: 717044379
+      Dust Jumper Sprite Sheet 42x91_46: -776962581
+      Dust Jumper Sprite Sheet 42x91_47: 547817809
+      Dust Jumper Sprite Sheet 42x91_48: -2013535429
+      Dust Jumper Sprite Sheet 42x91_49: -1490830303
+      Dust Jumper Sprite Sheet 42x91_5: 79772256
+      Dust Jumper Sprite Sheet 42x91_50: -1586414942
+      Dust Jumper Sprite Sheet 42x91_51: -606553285
+      Dust Jumper Sprite Sheet 42x91_52: -2011546215
+      Dust Jumper Sprite Sheet 42x91_53: 1813496782
+      Dust Jumper Sprite Sheet 42x91_54: 1909933847
+      Dust Jumper Sprite Sheet 42x91_55: -873208551
+      Dust Jumper Sprite Sheet 42x91_56: 2008032923
+      Dust Jumper Sprite Sheet 42x91_57: 1885408219
+      Dust Jumper Sprite Sheet 42x91_58: 23245739
+      Dust Jumper Sprite Sheet 42x91_59: 686929368
+      Dust Jumper Sprite Sheet 42x91_6: 850111049
+      Dust Jumper Sprite Sheet 42x91_60: 881611066
+      Dust Jumper Sprite Sheet 42x91_61: -2136829643
+      Dust Jumper Sprite Sheet 42x91_62: 1229912122
+      Dust Jumper Sprite Sheet 42x91_63: -703591297
+      Dust Jumper Sprite Sheet 42x91_64: -2064013252
+      Dust Jumper Sprite Sheet 42x91_65: 1164910189
+      Dust Jumper Sprite Sheet 42x91_66: -1376534432
+      Dust Jumper Sprite Sheet 42x91_67: -1108159390
+      Dust Jumper Sprite Sheet 42x91_68: -160634499
+      Dust Jumper Sprite Sheet 42x91_69: -1955297131
+      Dust Jumper Sprite Sheet 42x91_7: 1922593293
+      Dust Jumper Sprite Sheet 42x91_70: 1973844546
+      Dust Jumper Sprite Sheet 42x91_71: -1184794439
+      Dust Jumper Sprite Sheet 42x91_72: -1296396103
+      Dust Jumper Sprite Sheet 42x91_73: -83910061
+      Dust Jumper Sprite Sheet 42x91_74: 74261551
+      Dust Jumper Sprite Sheet 42x91_75: -1681938258
+      Dust Jumper Sprite Sheet 42x91_76: -233546434
+      Dust Jumper Sprite Sheet 42x91_77: -1070626983
+      Dust Jumper Sprite Sheet 42x91_78: -350728324
+      Dust Jumper Sprite Sheet 42x91_79: 2124483284
+      Dust Jumper Sprite Sheet 42x91_8: -1801516323
+      Dust Jumper Sprite Sheet 42x91_80: 548080519
+      Dust Jumper Sprite Sheet 42x91_81: 962678160
+      Dust Jumper Sprite Sheet 42x91_82: 540662998
+      Dust Jumper Sprite Sheet 42x91_83: -779353557
+      Dust Jumper Sprite Sheet 42x91_84: -276540875
+      Dust Jumper Sprite Sheet 42x91_85: 750985189
+      Dust Jumper Sprite Sheet 42x91_86: -1710442219
+      Dust Jumper Sprite Sheet 42x91_87: 246556715
+      Dust Jumper Sprite Sheet 42x91_88: 1393176818
+      Dust Jumper Sprite Sheet 42x91_9: 873658501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

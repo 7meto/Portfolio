@@ -1,0 +1,3499 @@
+fileFormatVersion: 2
+guid: d41d3e8a6a1a7644c98302de65e94c83
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 04 Stranded - Pack 4 back up_Frame_0
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 335
+      width: 14
+      height: 19
+    spriteID: e69c4118e86902d439afeb7f6c12778a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 335}
+  - name: 04 Stranded - Pack 4 back up_Frame_1
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 362
+      width: 14
+      height: 19
+    spriteID: e91e5cf103512274c8e6f19c0bfc8765
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 362}
+  - name: 04 Stranded - Pack 4 back up_Frame_2
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 389
+      width: 14
+      height: 19
+    spriteID: b45d3d2a7e7c5fe448b531572f69029d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 389}
+  - name: 04 Stranded - Pack 4 back up_Frame_3
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 416
+      width: 14
+      height: 19
+    spriteID: 4179d3ca9543f51498ef5b95c6760b4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 416}
+  - name: 04 Stranded - Pack 4 back up_Frame_4
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 31
+      width: 14
+      height: 20
+    spriteID: e945b7cbb949b3b42919e8748a4414a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 31}
+  - name: 04 Stranded - Pack 4 back up_Frame_5
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 59
+      width: 14
+      height: 20
+    spriteID: 9d4b06ae4272b484880d983a0f253a2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 59}
+  - name: 04 Stranded - Pack 4 back up_Frame_6
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 87
+      width: 14
+      height: 20
+    spriteID: 06dcf9e1179a0ed4aaa2a22e54a94aa3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 87}
+  - name: 04 Stranded - Pack 4 back up_Frame_7
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 115
+      width: 14
+      height: 20
+    spriteID: 2994d7401fb968a47bcb31bc82fcb665
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 115}
+  - name: 04 Stranded - Pack 4 back up_Frame_8
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 443
+      width: 14
+      height: 19
+    spriteID: 53d8e9a9d6d7a924492923638655a4b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 443}
+  - name: 04 Stranded - Pack 4 back up_Frame_9
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 470
+      width: 14
+      height: 19
+    spriteID: 111dc3dd7ce3b6c4dbaa40e0abf6eb48
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 470}
+  - name: 04 Stranded - Pack 4 back up_Frame_10
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 29
+      width: 14
+      height: 19
+    spriteID: 3ef756f58d03b894caf1fa558bfba0cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 29}
+  - name: 04 Stranded - Pack 4 back up_Frame_11
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 456
+      width: 14
+      height: 18
+    spriteID: 88450542d869a8f4da18a0dc16d586b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 456}
+  - name: 04 Stranded - Pack 4 back up_Frame_12
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 482
+      width: 14
+      height: 18
+    spriteID: 73824a90fda2b4e4c838a643e424d6a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 482}
+  - name: 04 Stranded - Pack 4 back up_Frame_13
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 56
+      width: 14
+      height: 19
+    spriteID: 8a8f95ce73397f94db6ab6cb41cf4c0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 56}
+  - name: 04 Stranded - Pack 4 back up_Frame_14
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 218
+      width: 14
+      height: 17
+    spriteID: e93a98f39c97c2c4d96b7ae74b0972cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 218}
+  - name: 04 Stranded - Pack 4 back up_Frame_15
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.3529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 243
+      width: 14
+      height: 17
+    spriteID: f4a0e20eedf2c074bafb3108ebd57c21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 243}
+  - name: 04 Stranded - Pack 4 back up_Frame_16
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 4
+      width: 14
+      height: 18
+    spriteID: 3a6d3dd50b11c9c428d6db7d64e272b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 4}
+  - name: 04 Stranded - Pack 4 back up_Frame_17
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 83
+      width: 14
+      height: 19
+    spriteID: 5737de6c2023cd144af64621aa29dc13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 83}
+  - name: 04 Stranded - Pack 4 back up_Frame_18
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 268
+      width: 14
+      height: 17
+    spriteID: 8eae1a5b1a519964ba44979df522ed6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 268}
+  - name: 04 Stranded - Pack 4 back up_Frame_19
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.3529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 293
+      width: 14
+      height: 17
+    spriteID: 1e9e858892f87304183e45ea71250bcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 293}
+  - name: 04 Stranded - Pack 4 back up_Frame_20
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 30
+      width: 14
+      height: 18
+    spriteID: 9b7ecf57278068148907877bda1b265a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 30}
+  - name: 04 Stranded - Pack 4 back up_Frame_21
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 110
+      width: 14
+      height: 19
+    spriteID: cf39720088d0c964dbdb1a4dfde8ef5d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 110}
+  - name: 04 Stranded - Pack 4 back up_Frame_22
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 318
+      width: 14
+      height: 17
+    spriteID: e6dfc3bf8f982a24d9fe0e851d867ef3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 318}
+  - name: 04 Stranded - Pack 4 back up_Frame_23
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.3529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 343
+      width: 14
+      height: 17
+    spriteID: 96289848070edd5468e1ba8281082385
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 343}
+  - name: 04 Stranded - Pack 4 back up_Frame_24
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 56
+      width: 14
+      height: 18
+    spriteID: 0e512019df3efe94b894786b88eac92f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 56}
+  - name: 04 Stranded - Pack 4 back up_Frame_25
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 137
+      width: 14
+      height: 19
+    spriteID: c5b127dc673d2914cb276ea8fec53019
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 137}
+  - name: 04 Stranded - Pack 4 back up_Frame_26
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 368
+      width: 14
+      height: 17
+    spriteID: 284e696896cbda64dbc602814b1a5bb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 368}
+  - name: 04 Stranded - Pack 4 back up_Frame_27
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.3529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 393
+      width: 14
+      height: 17
+    spriteID: 44433cb7e8bd0364ebb1c22b0fd542af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 393}
+  - name: 04 Stranded - Pack 4 back up_Frame_28
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 82
+      width: 14
+      height: 18
+    spriteID: 98959294a34c03140839f241140f6edc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 82}
+  - name: 04 Stranded - Pack 4 back up_Frame_29
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 164
+      width: 14
+      height: 19
+    spriteID: 539c86946d37c374a8ef2bf0f53dade1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 164}
+  - name: 04 Stranded - Pack 4 back up_Frame_30
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 443
+      width: 14
+      height: 16
+    spriteID: 4eba2f4fa45d30848be3a4b550a229b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 443}
+  - name: 04 Stranded - Pack 4 back up_Frame_31
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.8461539}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 249
+      width: 14
+      height: 13
+    spriteID: 016464c4178c4124fadce8ecff62ea27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 249}
+  - name: 04 Stranded - Pack 4 back up_Frame_35
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 467
+      width: 14
+      height: 16
+    spriteID: 59a8110014e0295429e490d362e61fa3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 467}
+  - name: 04 Stranded - Pack 4 back up_Frame_36
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 143
+      width: 14
+      height: 20
+    spriteID: 0c95aff874a3cfe45be4c0d304b51045
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 143}
+  - name: 04 Stranded - Pack 4 back up_Frame_37
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 191
+      width: 14
+      height: 19
+    spriteID: 03e6423fd2a6b734c87005598923ec49
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 191}
+  - name: 04 Stranded - Pack 4 back up_Frame_38
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 218
+      width: 14
+      height: 19
+    spriteID: 5d643d2783bfe114d9a61cfecb5d4067
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 218}
+  - name: 04 Stranded - Pack 4 back up_Frame_39
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 245
+      width: 14
+      height: 19
+    spriteID: 51f1c5ecb43a6d3469915da0ee84e215
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 245}
+  - name: 04 Stranded - Pack 4 back up_Frame_40
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 171
+      width: 14
+      height: 20
+    spriteID: 50d4e0fa5ddca8142aacb3327b306aa0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 171}
+  - name: 04 Stranded - Pack 4 back up_Frame_41
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 199
+      width: 14
+      height: 20
+    spriteID: 567078ffdf33a084ebd1e9e91aa5c323
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 199}
+  - name: 04 Stranded - Pack 4 back up_Frame_42
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 227
+      width: 14
+      height: 20
+    spriteID: bcd00658abdc0144cb532d9d4556caa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 227}
+  - name: 04 Stranded - Pack 4 back up_Frame_43
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 255
+      width: 14
+      height: 20
+    spriteID: 1fd4010e626e4f34296dc7610948f283
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 255}
+  - name: 04 Stranded - Pack 4 back up_Frame_44
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 272
+      width: 14
+      height: 19
+    spriteID: 0fda8f85d3697fb4f9919f66d0c0655f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 272}
+  - name: 04 Stranded - Pack 4 back up_Frame_45
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 299
+      width: 14
+      height: 19
+    spriteID: 555dfecddf0cfbe4d941c51070e16843
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 299}
+  - name: 04 Stranded - Pack 4 back up_Frame_46
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 326
+      width: 14
+      height: 19
+    spriteID: 7531b80a46dfd504b835bf05234d490e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 326}
+  - name: 04 Stranded - Pack 4 back up_Frame_47
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 108
+      width: 14
+      height: 18
+    spriteID: d4b23e801562b804698670665f29e6f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 108}
+  - name: 04 Stranded - Pack 4 back up_Frame_48
+    originalName: 
+    pivot: {x: 1.5000001, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 134
+      width: 14
+      height: 18
+    spriteID: 040f4c463d3bafc45a3c3cd80eae6afb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 134}
+  - name: 04 Stranded - Pack 4 back up_Frame_49
+    originalName: 
+    pivot: {x: 1.4666667, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 421
+      width: 15
+      height: 19
+    spriteID: 7294f9996ac817046acfa9197522bf8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 421}
+  - name: 04 Stranded - Pack 4 back up_Frame_50
+    originalName: 
+    pivot: {x: 1.4666667, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 431
+      width: 15
+      height: 17
+    spriteID: 53d304df6283d1b4580cd1223403c5fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 431}
+  - name: 04 Stranded - Pack 4 back up_Frame_51
+    originalName: 
+    pivot: {x: 1.375, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 369
+      width: 16
+      height: 18
+    spriteID: 9bb10761a2d927f43b2f72496fa1a5dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 369}
+  - name: 04 Stranded - Pack 4 back up_Frame_52
+    originalName: 
+    pivot: {x: 1.4666667, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 448
+      width: 15
+      height: 19
+    spriteID: 6243d7ddfeffe284881a20de5ccdaae5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 448}
+  - name: 04 Stranded - Pack 4 back up_Frame_53
+    originalName: 
+    pivot: {x: 1.4666667, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 475
+      width: 15
+      height: 19
+    spriteID: b647f25953867d143a3943a1d0ff56ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 475}
+  - name: 04 Stranded - Pack 4 back up_Frame_54
+    originalName: 
+    pivot: {x: 1.4666667, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 283
+      width: 15
+      height: 18
+    spriteID: f3e30f6b31a6e2443a95f4827adff787
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 283}
+  - name: 04 Stranded - Pack 4 back up_Frame_55
+    originalName: 
+    pivot: {x: 1.4666667, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 309
+      width: 15
+      height: 18
+    spriteID: 8e0a1da04cd16324dafd395bc03180f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 309}
+  - name: 04 Stranded - Pack 4 back up_Frame_56
+    originalName: 
+    pivot: {x: 1.4666667, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 341
+      width: 15
+      height: 20
+    spriteID: f4fe5bd0e9f91244088b286c734d7117
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 341}
+  - name: 04 Stranded - Pack 4 back up_Frame_57
+    originalName: 
+    pivot: {x: 1.5714287, y: -1.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 491
+      width: 14
+      height: 16
+    spriteID: e20453be5b4d8694a8a4509a5fc42532
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 491}
+  - name: 04 Stranded - Pack 4 back up_Frame_58
+    originalName: 
+    pivot: {x: 1.5714287, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 418
+      width: 14
+      height: 17
+    spriteID: 345d6f35c8dd1834d851c73fdedf83e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 418}
+  - name: 04 Stranded - Pack 4 back up_Frame_59
+    originalName: 
+    pivot: {x: 1.5714287, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 160
+      width: 14
+      height: 18
+    spriteID: e9d34629ba77f894eaaf91278547cc7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 160}
+  - name: 04 Stranded - Pack 4 back up_Frame_60
+    originalName: 
+    pivot: {x: 1.5714287, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 353
+      width: 14
+      height: 19
+    spriteID: 5637f0d51f8c16442b29f1f0e409a6f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 353}
+  - name: 04 Stranded - Pack 4 back up_Frame_61
+    originalName: 
+    pivot: {x: 1.4375, y: -1.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 407
+      width: 16
+      height: 16
+    spriteID: 9200d70ec67087542aeaa16c0f2607a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 407}
+  - name: 04 Stranded - Pack 4 back up_Frame_62
+    originalName: 
+    pivot: {x: 1.4375, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 4
+      width: 16
+      height: 17
+    spriteID: bfb8673d10a44954081ecd999f5471f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 4}
+  - name: 04 Stranded - Pack 4 back up_Frame_63
+    originalName: 
+    pivot: {x: 1.4375, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 395
+      width: 16
+      height: 18
+    spriteID: 172ef6ddddf6975439f2c553d1aa54e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 395}
+  - name: 04 Stranded - Pack 4 back up_Frame_64
+    originalName: 
+    pivot: {x: 1.4375, y: -1.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 313
+      width: 16
+      height: 20
+    spriteID: 8d7c9ea2a0b9a544986f11bfe8bb4f29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 313}
+  - name: 04 Stranded - Pack 4 back up_Frame_65
+    originalName: 
+    pivot: {x: 1.4666667, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 4
+      width: 15
+      height: 19
+    spriteID: 646b4136a0d778d4183f5996e6d38341
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 4}
+  - name: 04 Stranded - Pack 4 back up_Frame_66
+    originalName: 
+    pivot: {x: 1.5714287, y: -1.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 28
+      width: 14
+      height: 16
+    spriteID: e7ee87f1cc8ef324c95072438701776d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 28}
+  - name: 04 Stranded - Pack 4 back up_Frame_67
+    originalName: 
+    pivot: {x: 1.2666668, y: -1.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 4
+      width: 15
+      height: 16
+    spriteID: 84253095663117e49a4b3b5d4cdc9ebc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 4}
+  - name: 04 Stranded - Pack 4 back up_Frame_68
+    originalName: 
+    pivot: {x: 1.25, y: -1.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 4
+      width: 16
+      height: 12
+    spriteID: d591bf15a1435f347a4110388234f514
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 4}
+  - name: 04 Stranded - Pack 4 back up_Frame_69
+    originalName: 
+    pivot: {x: 1.5714287, y: -1.8333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 387
+      width: 14
+      height: 12
+    spriteID: a86a3760eaa4e2842bc23cb814ac65a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 387}
+  - name: 04 Stranded - Pack 4 back up_Frame_70
+    originalName: 
+    pivot: {x: 1.5714287, y: -1.6923077}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 270
+      width: 14
+      height: 13
+    spriteID: 08573773579c3254399214a02ec28d83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 270}
+  - name: 04 Stranded - Pack 4 back up_Frame_107
+    originalName: 
+    pivot: {x: 1.4285715, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 380
+      width: 14
+      height: 19
+    spriteID: 302071cf95e942a4984a5b5764b61458
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 64, y: 380}
+  - name: 04 Stranded - Pack 4 back up_Frame_32
+    originalName: 
+    pivot: {x: 1.6363637, y: -3.142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 4
+      width: 11
+      height: 7
+    spriteID: 6e3274c6a5aaf7b4c8edfdba3df3db46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 4}
+  - name: 04 Stranded - Pack 4 back up_Frame_33
+    originalName: 
+    pivot: {x: 1.6363637, y: -2.4444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 499
+      width: 11
+      height: 9
+    spriteID: a175481225ea7ec438038db065116809
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 499}
+  - name: 04 Stranded - Pack 4 back up_Frame_34
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 452
+      width: 11
+      height: 13
+    spriteID: e792cfa8a74db834c9fd7caab729c285
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 452}
+  - name: 04 Stranded - Pack 4 back up_Frame_71
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 214
+      width: 11
+      height: 18
+    spriteID: 3c725de609bb4b44f8264d308b799586
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 214}
+  - name: 04 Stranded - Pack 4 back up_Frame_72
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 52
+      width: 11
+      height: 19
+    spriteID: 79d457c0e579fda41b1403ff75d39cc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 52}
+  - name: 04 Stranded - Pack 4 back up_Frame_73
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 79
+      width: 11
+      height: 19
+    spriteID: 3cf24193793aa9b44a70694f495d58e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 79}
+  - name: 04 Stranded - Pack 4 back up_Frame_74
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 106
+      width: 11
+      height: 19
+    spriteID: a4461d9c891fce34496d8dfc908c5636
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 106}
+  - name: 04 Stranded - Pack 4 back up_Frame_75
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.1578948}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 133
+      width: 11
+      height: 19
+    spriteID: 1d05272d500133c4e9a12be40d3d9afc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 133}
+  - name: 04 Stranded - Pack 4 back up_Frame_76
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 240
+      width: 11
+      height: 18
+    spriteID: fb77726c9f41d7046a1ad4d6bc142372
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 240}
+  - name: 04 Stranded - Pack 4 back up_Frame_77
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 266
+      width: 11
+      height: 18
+    spriteID: a1ee621ed14f06243a8a8b81e95ad1f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 266}
+  - name: 04 Stranded - Pack 4 back up_Frame_78
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 292
+      width: 11
+      height: 18
+    spriteID: 13abe492fb945774e88b819ba2f9881e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 292}
+  - name: 04 Stranded - Pack 4 back up_Frame_79
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 474
+      width: 11
+      height: 17
+    spriteID: 321c1c29c1e3f7e428e6f244f480e6cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 474}
+  - name: 04 Stranded - Pack 4 back up_Frame_80
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 24
+      width: 11
+      height: 17
+    spriteID: b4f5071e08d27cc40a88d16211e24eb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 24}
+  - name: 04 Stranded - Pack 4 back up_Frame_81
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 49
+      width: 11
+      height: 17
+    spriteID: 5c67e79a8ff306a41b5aa404f3635041
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 49}
+  - name: 04 Stranded - Pack 4 back up_Frame_82
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 318
+      width: 11
+      height: 18
+    spriteID: c2baaecbe5442504e85aad8fd58004ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 318}
+  - name: 04 Stranded - Pack 4 back up_Frame_83
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 74
+      width: 11
+      height: 17
+    spriteID: bc6eddc4c0162a444b54bd21e2d435ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 74}
+  - name: 04 Stranded - Pack 4 back up_Frame_84
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.1666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 344
+      width: 11
+      height: 18
+    spriteID: 879b7d81d8976424198fa47894a8cf69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 344}
+  - name: 04 Stranded - Pack 4 back up_Frame_85
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 370
+      width: 11
+      height: 18
+    spriteID: 78d806cca69ed774295b1148dba20855
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 370}
+  - name: 04 Stranded - Pack 4 back up_Frame_86
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.3529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 99
+      width: 11
+      height: 17
+    spriteID: 931046cbae479d94f94cf8f08b332c4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 99}
+  - name: 04 Stranded - Pack 4 back up_Frame_87
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 124
+      width: 11
+      height: 17
+    spriteID: 9352a59623a8cd34bbe273e1bc09b6b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 124}
+  - name: 04 Stranded - Pack 4 back up_Frame_88
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 149
+      width: 11
+      height: 17
+    spriteID: 5bf4cd2de40f49247932489cf9cf6455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 149}
+  - name: 04 Stranded - Pack 4 back up_Frame_89
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 160
+      width: 11
+      height: 19
+    spriteID: 6b88517996a9d2b40b49320a4fc23b1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 160}
+  - name: 04 Stranded - Pack 4 back up_Frame_90
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.3529413}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 174
+      width: 11
+      height: 17
+    spriteID: a769e069b377c774e80d9c2d64ad06bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 174}
+  - name: 04 Stranded - Pack 4 back up_Frame_91
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 291
+      width: 11
+      height: 16
+    spriteID: 2fb4cefa55747ef41b85746efaaafd71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 291}
+  - name: 04 Stranded - Pack 4 back up_Frame_92
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.1666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 396
+      width: 11
+      height: 18
+    spriteID: b0ec84fdb539a164e9daacd03cd78313
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 396}
+  - name: 04 Stranded - Pack 4 back up_Frame_93
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 422
+      width: 11
+      height: 18
+    spriteID: c52ec28cdc5443145a96c3d7bef02bb4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 422}
+  - name: 04 Stranded - Pack 4 back up_Frame_94
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 315
+      width: 11
+      height: 16
+    spriteID: 9e07ee7bd007d274896da107064b0163
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 315}
+  - name: 04 Stranded - Pack 4 back up_Frame_95
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 339
+      width: 11
+      height: 16
+    spriteID: 919d1c8eab945984f9182375bec20d15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 339}
+  - name: 04 Stranded - Pack 4 back up_Frame_96
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 199
+      width: 11
+      height: 17
+    spriteID: 07359ca446d882645bd4e940492e84df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 199}
+  - name: 04 Stranded - Pack 4 back up_Frame_97
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 187
+      width: 11
+      height: 19
+    spriteID: 7bd650fe0be606a49afe6916907e4b72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 187}
+  - name: 04 Stranded - Pack 4 back up_Frame_98
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.4375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 363
+      width: 11
+      height: 16
+    spriteID: c9f88ef08cb39d043a8d05cc3fc8bff4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 363}
+  - name: 04 Stranded - Pack 4 back up_Frame_99
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2941177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 224
+      width: 11
+      height: 17
+    spriteID: b8524644c1d0c7a4ab9dcf23af18b63a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 224}
+  - name: 04 Stranded - Pack 4 back up_Frame_100
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.5333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 407
+      width: 11
+      height: 15
+    spriteID: 7dbaa6cb932bab443a2d67cf09a4ef33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 407}
+  - name: 04 Stranded - Pack 4 back up_Frame_101
+    originalName: 
+    pivot: {x: 1.6363637, y: -2.1818182}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 41
+      y: 497
+      width: 11
+      height: 11
+    spriteID: 6841a34e96f2d8948b4ba493fb7006df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 41, y: 497}
+  - name: 04 Stranded - Pack 4 back up_Frame_102
+    originalName: 
+    pivot: {x: 1.6363637, y: -3.142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 157
+      y: 19
+      width: 11
+      height: 7
+    spriteID: f89356b6d3791a24094170f17584f883
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 157, y: 19}
+  - name: 04 Stranded - Pack 4 back up_Frame_103
+    originalName: 
+    pivot: {x: 1.6363637, y: -2.4444447}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 494
+      width: 11
+      height: 9
+    spriteID: 07dcd4b3a9592f94abc2ef2eb93afada
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 494}
+  - name: 04 Stranded - Pack 4 back up_Frame_104
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.6153847}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 473
+      width: 11
+      height: 13
+    spriteID: fd1e065ad99d05f4eb4cf231e5e52e91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 473}
+  - name: 04 Stranded - Pack 4 back up_Frame_105
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.5714285}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 430
+      width: 11
+      height: 14
+    spriteID: 8f13887548ed548408ea4de22d931510
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 430}
+  - name: 04 Stranded - Pack 4 back up_Frame_106
+    originalName: 
+    pivot: {x: 1.6363637, y: -1.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 110
+      y: 448
+      width: 11
+      height: 18
+    spriteID: e170ab1a1fa891a4b8be524b7b7cc1a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 110, y: 448}
+  - name: 04 Stranded - Pack 4 back up_Frame_108
+    originalName: 
+    pivot: {x: 1.1578947, y: -1.2352942}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 288
+      width: 19
+      height: 17
+    spriteID: 8579548fdd9e1654a8b9cccdc379eb32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 288}
+  - name: 04 Stranded - Pack 4 back up_Frame_109
+    originalName: 
+    pivot: {x: 1.0952381, y: -1.1666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 262
+      width: 21
+      height: 18
+    spriteID: 8cc4f82635003344eb37e6ee62e883c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 262}
+  - name: 04 Stranded - Pack 4 back up_Frame_110
+    originalName: 
+    pivot: {x: 1.0434783, y: -1.1052632}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 235
+      width: 23
+      height: 19
+    spriteID: c57ba3caf96455d4593219fbf042ae6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 235}
+  - name: 04 Stranded - Pack 4 back up_Frame_111
+    originalName: 
+    pivot: {x: 1, y: -1.0476191}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 138
+      width: 25
+      height: 21
+    spriteID: 7295df5729648b54c9d1e61e87b81d4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 138}
+  - name: 04 Stranded - Pack 4 back up_Frame_112
+    originalName: 
+    pivot: {x: 0.962963, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 71
+      width: 27
+      height: 24
+    spriteID: 3fd1337f6ff80c04da9d6a31b7dbfda5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 71}
+  - name: 04 Stranded - Pack 4 back up_Frame_113
+    originalName: 
+    pivot: {x: 0.962963, y: -0.88}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 38
+      width: 27
+      height: 25
+    spriteID: a9b79aaf6dfbe654abd25008aef812e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 38}
+  - name: 04 Stranded - Pack 4 back up_Frame_114
+    originalName: 
+    pivot: {x: 0.9310345, y: -0.84615386}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 29
+      height: 26
+    spriteID: 93372308b6e629142810a12ab3ea6aaf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 04 Stranded - Pack 4 back up_Frame_115
+    originalName: 
+    pivot: {x: 1.3157895, y: -0.8846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 201
+      width: 19
+      height: 26
+    spriteID: be9e08acbbd5e0a4e8b9da321fc1810c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 201}
+  - name: 04 Stranded - Pack 4 back up_Frame_116
+    originalName: 
+    pivot: {x: 1.3000001, y: -0.8846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 167
+      width: 20
+      height: 26
+    spriteID: 7ddcda57e4f745542aa6c0f3cde97faf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 167}
+  - name: 04 Stranded - Pack 4 back up_Frame_117
+    originalName: 
+    pivot: {x: 1.2857143, y: -0.85185194}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 103
+      width: 21
+      height: 27
+    spriteID: 7d47f39ceb412404c9e7c6ebc774eb6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 103}
+  - name: 04 Stranded - Pack 4 back up_Frame_119
+    originalName: 
+    pivot: {x: 19, y: -46}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 502
+      width: 1
+      height: 1
+    spriteID: 0fe8acf5628deb04895e234819a6b4c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 502}
+  - name: 04 Stranded - Pack 4 back up_Frame_118
+    originalName: 
+    pivot: {x: 1.5, y: -0.9583333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 186
+      width: 10
+      height: 24
+    spriteID: 7a0d85c10d2ec0d46b3d873d6ed6602e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 186}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1087832383
+    name: 04 Stranded - Pack 4 back up
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 04 Stranded - Pack 4 back up_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: e69c4118e86902d439afeb7f6c12778a
+    - name: 04 Stranded - Pack 4 back up_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: e91e5cf103512274c8e6f19c0bfc8765
+    - name: 04 Stranded - Pack 4 back up_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: b45d3d2a7e7c5fe448b531572f69029d
+    - name: 04 Stranded - Pack 4 back up_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 4179d3ca9543f51498ef5b95c6760b4e
+    - name: 04 Stranded - Pack 4 back up_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 20
+      spriteId: e945b7cbb949b3b42919e8748a4414a4
+    - name: 04 Stranded - Pack 4 back up_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 20
+      spriteId: 9d4b06ae4272b484880d983a0f253a2c
+    - name: 04 Stranded - Pack 4 back up_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 20
+      spriteId: 06dcf9e1179a0ed4aaa2a22e54a94aa3
+    - name: 04 Stranded - Pack 4 back up_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 20
+      spriteId: 2994d7401fb968a47bcb31bc82fcb665
+    - name: 04 Stranded - Pack 4 back up_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 53d8e9a9d6d7a924492923638655a4b5
+    - name: 04 Stranded - Pack 4 back up_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 111dc3dd7ce3b6c4dbaa40e0abf6eb48
+    - name: 04 Stranded - Pack 4 back up_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 3ef756f58d03b894caf1fa558bfba0cd
+    - name: 04 Stranded - Pack 4 back up_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 18
+      spriteId: 88450542d869a8f4da18a0dc16d586b3
+    - name: 04 Stranded - Pack 4 back up_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 18
+      spriteId: 73824a90fda2b4e4c838a643e424d6a3
+    - name: 04 Stranded - Pack 4 back up_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 8a8f95ce73397f94db6ab6cb41cf4c0a
+    - name: 04 Stranded - Pack 4 back up_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 17
+      spriteId: e93a98f39c97c2c4d96b7ae74b0972cc
+    - name: 04 Stranded - Pack 4 back up_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 12
+        y: 23
+        width: 14
+        height: 17
+      spriteId: f4a0e20eedf2c074bafb3108ebd57c21
+    - name: 04 Stranded - Pack 4 back up_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 12
+        y: 23
+        width: 14
+        height: 18
+      spriteId: 3a6d3dd50b11c9c428d6db7d64e272b0
+    - name: 04 Stranded - Pack 4 back up_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 5737de6c2023cd144af64621aa29dc13
+    - name: 04 Stranded - Pack 4 back up_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 17
+      spriteId: 8eae1a5b1a519964ba44979df522ed6b
+    - name: 04 Stranded - Pack 4 back up_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 12
+        y: 23
+        width: 14
+        height: 17
+      spriteId: 1e9e858892f87304183e45ea71250bcb
+    - name: 04 Stranded - Pack 4 back up_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 12
+        y: 23
+        width: 14
+        height: 18
+      spriteId: 9b7ecf57278068148907877bda1b265a
+    - name: 04 Stranded - Pack 4 back up_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: cf39720088d0c964dbdb1a4dfde8ef5d
+    - name: 04 Stranded - Pack 4 back up_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 17
+      spriteId: e6dfc3bf8f982a24d9fe0e851d867ef3
+    - name: 04 Stranded - Pack 4 back up_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 12
+        y: 23
+        width: 14
+        height: 17
+      spriteId: 96289848070edd5468e1ba8281082385
+    - name: 04 Stranded - Pack 4 back up_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 12
+        y: 23
+        width: 14
+        height: 18
+      spriteId: 0e512019df3efe94b894786b88eac92f
+    - name: 04 Stranded - Pack 4 back up_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: c5b127dc673d2914cb276ea8fec53019
+    - name: 04 Stranded - Pack 4 back up_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 17
+      spriteId: 284e696896cbda64dbc602814b1a5bb7
+    - name: 04 Stranded - Pack 4 back up_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 12
+        y: 23
+        width: 14
+        height: 17
+      spriteId: 44433cb7e8bd0364ebb1c22b0fd542af
+    - name: 04 Stranded - Pack 4 back up_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 12
+        y: 23
+        width: 14
+        height: 18
+      spriteId: 98959294a34c03140839f241140f6edc
+    - name: 04 Stranded - Pack 4 back up_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 539c86946d37c374a8ef2bf0f53dade1
+    - name: 04 Stranded - Pack 4 back up_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 12
+        y: 23
+        width: 14
+        height: 16
+      spriteId: 4eba2f4fa45d30848be3a4b550a229b5
+    - name: 04 Stranded - Pack 4 back up_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 12
+        y: 24
+        width: 14
+        height: 13
+      spriteId: 016464c4178c4124fadce8ecff62ea27
+    - name: 04 Stranded - Pack 4 back up_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 16
+      spriteId: 59a8110014e0295429e490d362e61fa3
+    - name: 04 Stranded - Pack 4 back up_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 20
+      spriteId: 0c95aff874a3cfe45be4c0d304b51045
+    - name: 04 Stranded - Pack 4 back up_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 03e6423fd2a6b734c87005598923ec49
+    - name: 04 Stranded - Pack 4 back up_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 5d643d2783bfe114d9a61cfecb5d4067
+    - name: 04 Stranded - Pack 4 back up_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 51f1c5ecb43a6d3469915da0ee84e215
+    - name: 04 Stranded - Pack 4 back up_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 20
+      spriteId: 50d4e0fa5ddca8142aacb3327b306aa0
+    - name: 04 Stranded - Pack 4 back up_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 20
+      spriteId: 567078ffdf33a084ebd1e9e91aa5c323
+    - name: 04 Stranded - Pack 4 back up_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 20
+      spriteId: bcd00658abdc0144cb532d9d4556caa6
+    - name: 04 Stranded - Pack 4 back up_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 20
+      spriteId: 1fd4010e626e4f34296dc7610948f283
+    - name: 04 Stranded - Pack 4 back up_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 0fda8f85d3697fb4f9919f66d0c0655f
+    - name: 04 Stranded - Pack 4 back up_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 555dfecddf0cfbe4d941c51070e16843
+    - name: 04 Stranded - Pack 4 back up_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 7531b80a46dfd504b835bf05234d490e
+    - name: 04 Stranded - Pack 4 back up_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 18
+      spriteId: d4b23e801562b804698670665f29e6f6
+    - name: 04 Stranded - Pack 4 back up_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 11
+        y: 22
+        width: 14
+        height: 18
+      spriteId: 040f4c463d3bafc45a3c3cd80eae6afb
+    - name: 04 Stranded - Pack 4 back up_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 10
+        y: 22
+        width: 15
+        height: 19
+      spriteId: 7294f9996ac817046acfa9197522bf8f
+    - name: 04 Stranded - Pack 4 back up_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 10
+        y: 22
+        width: 15
+        height: 17
+      spriteId: 53d304df6283d1b4580cd1223403c5fe
+    - name: 04 Stranded - Pack 4 back up_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 10
+        y: 22
+        width: 16
+        height: 18
+      spriteId: 9bb10761a2d927f43b2f72496fa1a5dd
+    - name: 04 Stranded - Pack 4 back up_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 10
+        y: 22
+        width: 15
+        height: 19
+      spriteId: 6243d7ddfeffe284881a20de5ccdaae5
+    - name: 04 Stranded - Pack 4 back up_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 10
+        y: 22
+        width: 15
+        height: 19
+      spriteId: b647f25953867d143a3943a1d0ff56ba
+    - name: 04 Stranded - Pack 4 back up_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 10
+        y: 22
+        width: 15
+        height: 18
+      spriteId: f3e30f6b31a6e2443a95f4827adff787
+    - name: 04 Stranded - Pack 4 back up_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 10
+        y: 22
+        width: 15
+        height: 18
+      spriteId: 8e0a1da04cd16324dafd395bc03180f5
+    - name: 04 Stranded - Pack 4 back up_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 10
+        y: 22
+        width: 15
+        height: 20
+      spriteId: f4fe5bd0e9f91244088b286c734d7117
+    - name: 04 Stranded - Pack 4 back up_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 10
+        y: 22
+        width: 14
+        height: 16
+      spriteId: e20453be5b4d8694a8a4509a5fc42532
+    - name: 04 Stranded - Pack 4 back up_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 10
+        y: 22
+        width: 14
+        height: 17
+      spriteId: 345d6f35c8dd1834d851c73fdedf83e3
+    - name: 04 Stranded - Pack 4 back up_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 10
+        y: 22
+        width: 14
+        height: 18
+      spriteId: e9d34629ba77f894eaaf91278547cc7f
+    - name: 04 Stranded - Pack 4 back up_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 10
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 5637f0d51f8c16442b29f1f0e409a6f8
+    - name: 04 Stranded - Pack 4 back up_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 9
+        y: 22
+        width: 16
+        height: 16
+      spriteId: 9200d70ec67087542aeaa16c0f2607a7
+    - name: 04 Stranded - Pack 4 back up_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 9
+        y: 22
+        width: 16
+        height: 17
+      spriteId: bfb8673d10a44954081ecd999f5471f5
+    - name: 04 Stranded - Pack 4 back up_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 9
+        y: 22
+        width: 16
+        height: 18
+      spriteId: 172ef6ddddf6975439f2c553d1aa54e0
+    - name: 04 Stranded - Pack 4 back up_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 9
+        y: 22
+        width: 16
+        height: 20
+      spriteId: 8d7c9ea2a0b9a544986f11bfe8bb4f29
+    - name: 04 Stranded - Pack 4 back up_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 10
+        y: 22
+        width: 15
+        height: 19
+      spriteId: 646b4136a0d778d4183f5996e6d38341
+    - name: 04 Stranded - Pack 4 back up_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 10
+        y: 22
+        width: 14
+        height: 16
+      spriteId: e7ee87f1cc8ef324c95072438701776d
+    - name: 04 Stranded - Pack 4 back up_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 13
+        y: 22
+        width: 15
+        height: 16
+      spriteId: 84253095663117e49a4b3b5d4cdc9ebc
+    - name: 04 Stranded - Pack 4 back up_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 12
+        y: 22
+        width: 16
+        height: 12
+      spriteId: d591bf15a1435f347a4110388234f514
+    - name: 04 Stranded - Pack 4 back up_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 10
+        y: 22
+        width: 14
+        height: 12
+      spriteId: a86a3760eaa4e2842bc23cb814ac65a8
+    - name: 04 Stranded - Pack 4 back up_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 10
+        y: 22
+        width: 14
+        height: 13
+      spriteId: 08573773579c3254399214a02ec28d83
+    - name: 04 Stranded - Pack 4 back up_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 12
+        y: 22
+        width: 14
+        height: 19
+      spriteId: 302071cf95e942a4984a5b5764b61458
+    - name: 04 Stranded - Pack 4 back up_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 7
+      spriteId: 6e3274c6a5aaf7b4c8edfdba3df3db46
+    - name: 04 Stranded - Pack 4 back up_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 9
+      spriteId: a175481225ea7ec438038db065116809
+    - name: 04 Stranded - Pack 4 back up_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 14
+        y: 21
+        width: 11
+        height: 13
+      spriteId: e792cfa8a74db834c9fd7caab729c285
+    - name: 04 Stranded - Pack 4 back up_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 18
+      spriteId: 3c725de609bb4b44f8264d308b799586
+    - name: 04 Stranded - Pack 4 back up_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 19
+      spriteId: 79d457c0e579fda41b1403ff75d39cc7
+    - name: 04 Stranded - Pack 4 back up_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 19
+      spriteId: 3cf24193793aa9b44a70694f495d58e6
+    - name: 04 Stranded - Pack 4 back up_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 19
+      spriteId: a4461d9c891fce34496d8dfc908c5636
+    - name: 04 Stranded - Pack 4 back up_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 19
+      spriteId: 1d05272d500133c4e9a12be40d3d9afc
+    - name: 04 Stranded - Pack 4 back up_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 18
+      spriteId: fb77726c9f41d7046a1ad4d6bc142372
+    - name: 04 Stranded - Pack 4 back up_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 18
+      spriteId: a1ee621ed14f06243a8a8b81e95ad1f4
+    - name: 04 Stranded - Pack 4 back up_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 18
+      spriteId: 13abe492fb945774e88b819ba2f9881e
+    - name: 04 Stranded - Pack 4 back up_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 17
+      spriteId: 321c1c29c1e3f7e428e6f244f480e6cf
+    - name: 04 Stranded - Pack 4 back up_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 17
+      spriteId: b4f5071e08d27cc40a88d16211e24eb5
+    - name: 04 Stranded - Pack 4 back up_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 17
+      spriteId: 5c67e79a8ff306a41b5aa404f3635041
+    - name: 04 Stranded - Pack 4 back up_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 18
+      spriteId: c2baaecbe5442504e85aad8fd58004ad
+    - name: 04 Stranded - Pack 4 back up_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 17
+      spriteId: bc6eddc4c0162a444b54bd21e2d435ee
+    - name: 04 Stranded - Pack 4 back up_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 14
+        y: 21
+        width: 11
+        height: 18
+      spriteId: 879b7d81d8976424198fa47894a8cf69
+    - name: 04 Stranded - Pack 4 back up_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 18
+      spriteId: 78d806cca69ed774295b1148dba20855
+    - name: 04 Stranded - Pack 4 back up_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 14
+        y: 23
+        width: 11
+        height: 17
+      spriteId: 931046cbae479d94f94cf8f08b332c4a
+    - name: 04 Stranded - Pack 4 back up_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 17
+      spriteId: 9352a59623a8cd34bbe273e1bc09b6b9
+    - name: 04 Stranded - Pack 4 back up_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 17
+      spriteId: 5bf4cd2de40f49247932489cf9cf6455
+    - name: 04 Stranded - Pack 4 back up_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 14
+        y: 21
+        width: 11
+        height: 19
+      spriteId: 6b88517996a9d2b40b49320a4fc23b1e
+    - name: 04 Stranded - Pack 4 back up_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 14
+        y: 23
+        width: 11
+        height: 17
+      spriteId: a769e069b377c774e80d9c2d64ad06bb
+    - name: 04 Stranded - Pack 4 back up_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 16
+      spriteId: 2fb4cefa55747ef41b85746efaaafd71
+    - name: 04 Stranded - Pack 4 back up_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 14
+        y: 21
+        width: 11
+        height: 18
+      spriteId: b0ec84fdb539a164e9daacd03cd78313
+    - name: 04 Stranded - Pack 4 back up_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 18
+      spriteId: c52ec28cdc5443145a96c3d7bef02bb4
+    - name: 04 Stranded - Pack 4 back up_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 14
+        y: 23
+        width: 11
+        height: 16
+      spriteId: 9e07ee7bd007d274896da107064b0163
+    - name: 04 Stranded - Pack 4 back up_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 16
+      spriteId: 919d1c8eab945984f9182375bec20d15
+    - name: 04 Stranded - Pack 4 back up_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 17
+      spriteId: 07359ca446d882645bd4e940492e84df
+    - name: 04 Stranded - Pack 4 back up_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 14
+        y: 21
+        width: 11
+        height: 19
+      spriteId: 7bd650fe0be606a49afe6916907e4b72
+    - name: 04 Stranded - Pack 4 back up_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 14
+        y: 23
+        width: 11
+        height: 16
+      spriteId: c9f88ef08cb39d043a8d05cc3fc8bff4
+    - name: 04 Stranded - Pack 4 back up_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 17
+      spriteId: b8524644c1d0c7a4ab9dcf23af18b63a
+    - name: 04 Stranded - Pack 4 back up_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 14
+        y: 23
+        width: 11
+        height: 15
+      spriteId: 7dbaa6cb932bab443a2d67cf09a4ef33
+    - name: 04 Stranded - Pack 4 back up_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 14
+        y: 24
+        width: 11
+        height: 11
+      spriteId: 6841a34e96f2d8948b4ba493fb7006df
+    - name: 04 Stranded - Pack 4 back up_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 7
+      spriteId: f89356b6d3791a24094170f17584f883
+    - name: 04 Stranded - Pack 4 back up_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 9
+      spriteId: 07dcd4b3a9592f94abc2ef2eb93afada
+    - name: 04 Stranded - Pack 4 back up_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 14
+        y: 21
+        width: 11
+        height: 13
+      spriteId: fd1e065ad99d05f4eb4cf231e5e52e91
+    - name: 04 Stranded - Pack 4 back up_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 14
+      spriteId: 8f13887548ed548408ea4de22d931510
+    - name: 04 Stranded - Pack 4 back up_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 14
+        y: 22
+        width: 11
+        height: 18
+      spriteId: e170ab1a1fa891a4b8be524b7b7cc1a4
+    - name: 04 Stranded - Pack 4 back up_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 10
+        y: 21
+        width: 19
+        height: 17
+      spriteId: 8579548fdd9e1654a8b9cccdc379eb32
+    - name: 04 Stranded - Pack 4 back up_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 9
+        y: 21
+        width: 21
+        height: 18
+      spriteId: 8cc4f82635003344eb37e6ee62e883c5
+    - name: 04 Stranded - Pack 4 back up_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 8
+        y: 21
+        width: 23
+        height: 19
+      spriteId: c57ba3caf96455d4593219fbf042ae6f
+    - name: 04 Stranded - Pack 4 back up_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 7
+        y: 22
+        width: 25
+        height: 21
+      spriteId: 7295df5729648b54c9d1e61e87b81d4d
+    - name: 04 Stranded - Pack 4 back up_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 6
+        y: 22
+        width: 27
+        height: 24
+      spriteId: 3fd1337f6ff80c04da9d6a31b7dbfda5
+    - name: 04 Stranded - Pack 4 back up_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 6
+        y: 22
+        width: 27
+        height: 25
+      spriteId: a9b79aaf6dfbe654abd25008aef812e1
+    - name: 04 Stranded - Pack 4 back up_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 5
+        y: 22
+        width: 29
+        height: 26
+      spriteId: 93372308b6e629142810a12ab3ea6aaf
+    - name: 04 Stranded - Pack 4 back up_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 7
+        y: 23
+        width: 19
+        height: 26
+      spriteId: be9e08acbbd5e0a4e8b9da321fc1810c
+    - name: 04 Stranded - Pack 4 back up_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 6
+        y: 23
+        width: 20
+        height: 26
+      spriteId: 7ddcda57e4f745542aa6c0f3cde97faf
+    - name: 04 Stranded - Pack 4 back up_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 5
+        y: 23
+        width: 21
+        height: 27
+      spriteId: 7d47f39ceb412404c9e7c6ebc774eb6f
+    - name: 04 Stranded - Pack 4 back up_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 13
+        y: 46
+        width: 1
+        height: 1
+      spriteId: 0fe8acf5628deb04895e234819a6b4c6
+    - name: 04 Stranded - Pack 4 back up_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 17
+        y: 23
+        width: 10
+        height: 24
+      spriteId: 7a0d85c10d2ec0d46b3d873d6ed6602e
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 65}

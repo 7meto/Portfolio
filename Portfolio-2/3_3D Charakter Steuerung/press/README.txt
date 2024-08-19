@@ -1,0 +1,1 @@
+Ein 3D-Charakter-Kontroller in Unity 3D. Der Charakter kann sich im Raum umsehen und sich frei bewegen. Er kann springen und sich ducken. Der Raum enthält Objekte, mit denen der Charakter interagieren kann.

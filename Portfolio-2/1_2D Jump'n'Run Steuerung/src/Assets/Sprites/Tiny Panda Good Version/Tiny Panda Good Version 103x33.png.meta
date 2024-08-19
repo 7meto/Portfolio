@@ -1,0 +1,2406 @@
+fileFormatVersion: 2
+guid: b769ceb7409de38488e4490e5a57122a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b736dc6aaa5efa42a0fe9e2372158ec
+      internalID: 2098630813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 429
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec5767e89b649846afd33d5069ec170
+      internalID: 72091026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 429
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d178a5f4d3a1429a029f7a1135ed1
+      internalID: -1353700729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 429
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537212c4a88f4014783cc89e8a33e8e7
+      internalID: 1073718448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 429
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356dfcb1627ef7140bed53ac8e78b72e
+      internalID: -270069791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 429
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ccb7c5591fc1446b6a4e3420e62820
+      internalID: -594126815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 429
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607b972808003114caeb70a7129d5772
+      internalID: 1652666931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_7
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 429
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15e5fbe1ab1d74dbb1ebb828457310
+      internalID: 1287278873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_8
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 429
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dbd85b92575c54695869622d6e6957
+      internalID: 360803867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb06bb062b7f7349a61bd461fa40739
+      internalID: -1953651991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 396
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcfdbfffbf2c6e4096731aa1c1d3aec
+      internalID: -26988957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 396
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e8ca23a2bd742409c27eafa3308be0
+      internalID: 624212840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 396
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c0737b203b6ee49a965248796ec57b
+      internalID: 1517233975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 396
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f41ba47b0fbd444ead811fe72276a4a
+      internalID: -1570589507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 396
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1865a1fbf9840a04888105705ad9df24
+      internalID: -1469013025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_15
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 396
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1306fdcb3e5e6e428c6d6d817536770
+      internalID: 1480777006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_16
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 396
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3fe15caaa20a04c82f0c4210a15c30
+      internalID: 1563289361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04344310b9ddb454290164dce26b6f05
+      internalID: 1511791623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 363
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119cbcf440959b8428dec69894d27938
+      internalID: 1148550930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 363
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce32f553fd362488f3ee6024a8a8df
+      internalID: -105571017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 363
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc970c307cde9d429297fff9bfcc39f
+      internalID: 935347845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cfb061d22335a42aa8f7b6e848230b
+      internalID: 565509005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 330
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec2fd5d7a511e74e8dcbdb306fb5b2c
+      internalID: 565276308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 330
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca72f18a6192e44f8818ba24bcaa8fe
+      internalID: -1234073621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 330
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8a104a13cec84e839d3c29f758240
+      internalID: -1963441440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554316d1657928a47813a51f5f64278b
+      internalID: 2112013273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 297
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98789794a5e9fd6409104b9ffb08197e
+      internalID: 974595816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 297
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d946e122fc93d34995806b30c88f7d0
+      internalID: 1211619078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_28
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 297
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290fde988078504b9b1051a27cfc9fe
+      internalID: -301994175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae98c70d3964804e9bcc4131d69a67d
+      internalID: -1970617698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 264
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0589ce00371a2544bf008b2f78d3138
+      internalID: 259333849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 264
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27ca76722037d744bb196cbbbc11923
+      internalID: -771794878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 264
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00711bd60d55147b6a380f911b49a3
+      internalID: -243636211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad4ab85ae8cac24c89f9bd0a9bcd42b
+      internalID: 1227668437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 231
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e42ba4afebf6548bfde1446ed97a51
+      internalID: 1384392979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 231
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44da8612ae11674fb9e795b95efb81d
+      internalID: -943379917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_36
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 231
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b1168241c2cd54f94f346e4bce66e7
+      internalID: -1941527600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680e6de30e9a08a49a81ad463ea367ff
+      internalID: -1698984304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aef6af940afd1b4a9db40e42cbb8892
+      internalID: -401519811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ec10ba5990334da1c24e87cd3bcb0
+      internalID: 1666151391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_40
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd93cd8f9b9f4842ac14d9d0c257976
+      internalID: -1227795206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09007e412e963a49ab578a4812a7eb9
+      internalID: -262121342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_42
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef08af9f774876449684ec035ff52a9
+      internalID: 450619513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_43
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae261e7b90e16b42b2ff6022e8e3b27
+      internalID: 288622298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_44
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713ab7c0fde31eb4d8666c22f427bd6b
+      internalID: 633900442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_45
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258f02b3a6bdb2049a8f02c71858c688
+      internalID: 1796800980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_46
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 198
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457cf08d8d5b5ce41b5440890097f77f
+      internalID: -70195911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac468de981d7cf4eb9ee957283103aa
+      internalID: -47486753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 165
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e650aaca0b6da8f4d88128e5acf8ed45
+      internalID: 1783719757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 165
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a35e04543592a744ba9f866dacf66cd
+      internalID: -1014322586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 165
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6fd26e87fffe9458a427fe67ea24ce
+      internalID: 878791043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa911f33bb57ed4da459565099d44ac
+      internalID: -1036311580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c874688ef10a50429b33c030c4889f8
+      internalID: 1455092183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5737ada54d345824e92d4050533d881c
+      internalID: 757532614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_54
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549c967f0514ff241b041715bfcd6a12
+      internalID: 1598175943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_55
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dda62522988114499c646200383fa4
+      internalID: -608131740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_56
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93726e00e9d5ba43b95b8587dcc3f29
+      internalID: 1097440599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_57
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def03b99f4d6a4a4d9195c41cded4054
+      internalID: -86716373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_58
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcf28a388aaee944b9429e491658194
+      internalID: 1680824753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_59
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cfd49454d8eef48968d6b96eca28d5
+      internalID: -1352404000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_60
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 132
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d81529991419474ea3b297f4d1938c3
+      internalID: 998658124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa32ea2d9875f409a69075419538c2
+      internalID: 656727830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 99
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f29be686d73e44a806f75f3e2b2e9
+      internalID: -118009032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 99
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eeb188b9af0ce4a8d2f6c60329f0a5
+      internalID: -1265610575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_64
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 99
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6559764a47a08a3459be17d198b88c74
+      internalID: 1362993730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_65
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 99
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6726005f4b0ce2646bbad9bb9a467ab0
+      internalID: 2109033549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_66
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 99
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da75019845b1540807b5780e206a57
+      internalID: 201670483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_67
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 99
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27040349e2425942a3fcb7491347812
+      internalID: -1944425522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_68
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 99
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc569152ccc21247a96327e2cdd5e04
+      internalID: 95303531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_69
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 99
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e391d9ca380b4abeea0b51d543480
+      internalID: -301999580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fbaf383b0ba184687ef02e07c75420
+      internalID: 1767769214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 66
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e0dc6f890acd24f8b28761ac55f483
+      internalID: 38053257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 66
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f76e7e27b6a604f880e39d62bc59ef
+      internalID: 1051660171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_73
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 66
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e842d2e1bb622a40b9842e36afd5afd
+      internalID: 211626337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_74
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 66
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3822088dc40344a9f29ce434e82c96
+      internalID: -1324633000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_75
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 66
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4067e5184f2de5343bb0c251ffd856b1
+      internalID: 967592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd45df0f1d49264c8ff53625d66d8a9
+      internalID: 450261601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513e79f1e5a39c34e9573b98bd363773
+      internalID: -293005918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_78
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee72cbccec5e474f939528d8bc5895b
+      internalID: -2087606626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_79
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75725a5472515143a187cc70fa9a352
+      internalID: -2145569944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_80
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8d0f6962d0ad7408ad93bf898d1db8
+      internalID: -1588637760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_81
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4652d68250e65bc4bb55eef5e8f142b8
+      internalID: -339173856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_82
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3fb8a16cef40c45869992476566b90
+      internalID: 523820352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_83
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90ca2741cccee643bab739c595aa031
+      internalID: -1580944217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_84
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b47efc433472c4e8cd2d10688257bf
+      internalID: -312871200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_85
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3699d2e47adb21a429a97ddb90668422
+      internalID: 91185539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_86
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c55eca0f022ad64cb9ec286c1e2dced
+      internalID: -1322517099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_87
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62a73408593f64f888c8076750aa07
+      internalID: -1144238364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_88
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf1224613e2d8f458ae41619ee917a8
+      internalID: 438672959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_89
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5924d543238fd7e4c8b945070f57680c
+      internalID: 1046859583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_90
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0f3a6d67494034d886e393c3ae8937
+      internalID: -860852028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_91
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f600b92177bbc8e47b5dccdbe44b3dbd
+      internalID: 847160473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_92
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 33
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dbc963f91f7a84d82955d98f980ff3
+      internalID: 1130328318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eeeb6a37866e443b6a8d9cbbb1122c
+      internalID: -1545412711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6932d1768a3b84345b04e9677483b161
+      internalID: -1001243576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_95
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7983281e92dfe1a44904bd454cccb9fd
+      internalID: -1781885198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_96
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5215670f87d7a9a408b3f30643a6a1ca
+      internalID: -361075915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_97
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3060fb6d8b932ce47b0005c9c60ce07e
+      internalID: -866922184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_98
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b696f383a7db93c4fb68ce79e16ccea9
+      internalID: -1178105912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_99
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0acb40c200f5bc4eb3c48b792869769
+      internalID: -1992657039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_100
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb10043a997c6e4d82e40907850e9c9
+      internalID: -1465771503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_101
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c47c036d68ce834486ed9f0c0464757
+      internalID: 72991053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiny Panda Good Version 103x33_102
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 103
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180ed06aeffa0b54c8183a0f9d8fc593
+      internalID: -322744378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tiny Panda Good Version 103x33_0: 2098630813
+      Tiny Panda Good Version 103x33_1: 72091026
+      Tiny Panda Good Version 103x33_10: -26988957
+      Tiny Panda Good Version 103x33_100: -1465771503
+      Tiny Panda Good Version 103x33_101: 72991053
+      Tiny Panda Good Version 103x33_102: -322744378
+      Tiny Panda Good Version 103x33_11: 624212840
+      Tiny Panda Good Version 103x33_12: 1517233975
+      Tiny Panda Good Version 103x33_13: -1570589507
+      Tiny Panda Good Version 103x33_14: -1469013025
+      Tiny Panda Good Version 103x33_15: 1480777006
+      Tiny Panda Good Version 103x33_16: 1563289361
+      Tiny Panda Good Version 103x33_17: 1511791623
+      Tiny Panda Good Version 103x33_18: 1148550930
+      Tiny Panda Good Version 103x33_19: -105571017
+      Tiny Panda Good Version 103x33_2: -1353700729
+      Tiny Panda Good Version 103x33_20: 935347845
+      Tiny Panda Good Version 103x33_21: 565509005
+      Tiny Panda Good Version 103x33_22: 565276308
+      Tiny Panda Good Version 103x33_23: -1234073621
+      Tiny Panda Good Version 103x33_24: -1963441440
+      Tiny Panda Good Version 103x33_25: 2112013273
+      Tiny Panda Good Version 103x33_26: 974595816
+      Tiny Panda Good Version 103x33_27: 1211619078
+      Tiny Panda Good Version 103x33_28: -301994175
+      Tiny Panda Good Version 103x33_29: -1970617698
+      Tiny Panda Good Version 103x33_3: 1073718448
+      Tiny Panda Good Version 103x33_30: 259333849
+      Tiny Panda Good Version 103x33_31: -771794878
+      Tiny Panda Good Version 103x33_32: -243636211
+      Tiny Panda Good Version 103x33_33: 1227668437
+      Tiny Panda Good Version 103x33_34: 1384392979
+      Tiny Panda Good Version 103x33_35: -943379917
+      Tiny Panda Good Version 103x33_36: -1941527600
+      Tiny Panda Good Version 103x33_37: -1698984304
+      Tiny Panda Good Version 103x33_38: -401519811
+      Tiny Panda Good Version 103x33_39: 1666151391
+      Tiny Panda Good Version 103x33_4: -270069791
+      Tiny Panda Good Version 103x33_40: -1227795206
+      Tiny Panda Good Version 103x33_41: -262121342
+      Tiny Panda Good Version 103x33_42: 450619513
+      Tiny Panda Good Version 103x33_43: 288622298
+      Tiny Panda Good Version 103x33_44: 633900442
+      Tiny Panda Good Version 103x33_45: 1796800980
+      Tiny Panda Good Version 103x33_46: -70195911
+      Tiny Panda Good Version 103x33_47: -47486753
+      Tiny Panda Good Version 103x33_48: 1783719757
+      Tiny Panda Good Version 103x33_49: -1014322586
+      Tiny Panda Good Version 103x33_5: -594126815
+      Tiny Panda Good Version 103x33_50: 878791043
+      Tiny Panda Good Version 103x33_51: -1036311580
+      Tiny Panda Good Version 103x33_52: 1455092183
+      Tiny Panda Good Version 103x33_53: 757532614
+      Tiny Panda Good Version 103x33_54: 1598175943
+      Tiny Panda Good Version 103x33_55: -608131740
+      Tiny Panda Good Version 103x33_56: 1097440599
+      Tiny Panda Good Version 103x33_57: -86716373
+      Tiny Panda Good Version 103x33_58: 1680824753
+      Tiny Panda Good Version 103x33_59: -1352404000
+      Tiny Panda Good Version 103x33_6: 1652666931
+      Tiny Panda Good Version 103x33_60: 998658124
+      Tiny Panda Good Version 103x33_61: 656727830
+      Tiny Panda Good Version 103x33_62: -118009032
+      Tiny Panda Good Version 103x33_63: -1265610575
+      Tiny Panda Good Version 103x33_64: 1362993730
+      Tiny Panda Good Version 103x33_65: 2109033549
+      Tiny Panda Good Version 103x33_66: 201670483
+      Tiny Panda Good Version 103x33_67: -1944425522
+      Tiny Panda Good Version 103x33_68: 95303531
+      Tiny Panda Good Version 103x33_69: -301999580
+      Tiny Panda Good Version 103x33_7: 1287278873
+      Tiny Panda Good Version 103x33_70: 1767769214
+      Tiny Panda Good Version 103x33_71: 38053257
+      Tiny Panda Good Version 103x33_72: 1051660171
+      Tiny Panda Good Version 103x33_73: 211626337
+      Tiny Panda Good Version 103x33_74: -1324633000
+      Tiny Panda Good Version 103x33_75: 967592
+      Tiny Panda Good Version 103x33_76: 450261601
+      Tiny Panda Good Version 103x33_77: -293005918
+      Tiny Panda Good Version 103x33_78: -2087606626
+      Tiny Panda Good Version 103x33_79: -2145569944
+      Tiny Panda Good Version 103x33_8: 360803867
+      Tiny Panda Good Version 103x33_80: -1588637760
+      Tiny Panda Good Version 103x33_81: -339173856
+      Tiny Panda Good Version 103x33_82: 523820352
+      Tiny Panda Good Version 103x33_83: -1580944217
+      Tiny Panda Good Version 103x33_84: -312871200
+      Tiny Panda Good Version 103x33_85: 91185539
+      Tiny Panda Good Version 103x33_86: -1322517099
+      Tiny Panda Good Version 103x33_87: -1144238364
+      Tiny Panda Good Version 103x33_88: 438672959
+      Tiny Panda Good Version 103x33_89: 1046859583
+      Tiny Panda Good Version 103x33_9: -1953651991
+      Tiny Panda Good Version 103x33_90: -860852028
+      Tiny Panda Good Version 103x33_91: 847160473
+      Tiny Panda Good Version 103x33_92: 1130328318
+      Tiny Panda Good Version 103x33_93: -1545412711
+      Tiny Panda Good Version 103x33_94: -1001243576
+      Tiny Panda Good Version 103x33_95: -1781885198
+      Tiny Panda Good Version 103x33_96: -361075915
+      Tiny Panda Good Version 103x33_97: -866922184
+      Tiny Panda Good Version 103x33_98: -1178105912
+      Tiny Panda Good Version 103x33_99: -1992657039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
